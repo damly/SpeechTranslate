@@ -1,0 +1,51 @@
+{
+  "_from": "react-native-speech-iflytek",
+  "_id": "react-native-speech-iflytek@0.2.1",
+  "_inBundle": false,
+  "_integrity": "sha512-GQbsvRwYMDa+tuajHMAq/+3quVcuajQ3KJgFaqWrFHqxHp/KEJ/17lojd5Fm+G50ulkzA6OsMtDp5Bj1oseCVw==",
+  "_location": "/react-native-speech-iflytek",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-speech-iflytek",
+    "name": "react-native-speech-iflytek",
+    "escapedName": "react-native-speech-iflytek",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-speech-iflytek/-/react-native-speech-iflytek-0.2.1.tgz",
+  "_shasum": "a50a30bd422454a2a78b1245dac2c18cb607dc4f",
+  "_spec": "react-native-speech-iflytek",
+  "_where": "/home/wangyuman/work/RNSpeechTranslate",
+  "author": {
+    "name": "zphhhhh"
+  },
+  "bugs": {
+    "url": "https://github.com/zphhhhh/react-native-speech-iflytek/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Speech module based on iflytekSpeech for react native",
+  "homepage": "https://github.com/zphhhhh/react-native-speech-iflytek#readme",
+  "keywords": [
+    "speech"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-speech-iflytek",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zphhhhh/react-native-speech-iflytek.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.2.1"
+}
